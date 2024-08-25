@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AustriaTime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd11a6cad998416a520b9617f90f5eba7cf71ee1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AustriaTime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AustriaTime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
