@@ -1,0 +1,22 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://ip.sms.ir/ws/SendReceive.asmx"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "references": [
+      "Newtonsoft.Json, {Newtonsoft.Json, 13.0.1}",
+      "WebDriver, {Selenium.WebDriver, 4.18.1}",
+      "WebDriver.Support, {Selenium.Support, 4.18.1}"
+    ],
+    "sync": true,
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
