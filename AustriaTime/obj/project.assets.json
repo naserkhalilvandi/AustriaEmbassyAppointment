@@ -3137,11 +3137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sa\\Source\\repos\\AustriaTime\\AustriaTime\\AustriaTime.csproj",
+      "projectUniqueName": "C:\\Users\\sa\\Source\\repos\\AustriaTime\\New folder\\AustriaEmbassyAppointment\\AustriaTime\\AustriaTime.csproj",
       "projectName": "AustriaTime",
-      "projectPath": "C:\\Users\\sa\\Source\\repos\\AustriaTime\\AustriaTime\\AustriaTime.csproj",
+      "projectPath": "C:\\Users\\sa\\Source\\repos\\AustriaTime\\New folder\\AustriaEmbassyAppointment\\AustriaTime\\AustriaTime.csproj",
       "packagesPath": "C:\\Users\\sa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sa\\Source\\repos\\AustriaTime\\AustriaTime\\obj\\",
+      "outputPath": "C:\\Users\\sa\\Source\\repos\\AustriaTime\\New folder\\AustriaEmbassyAppointment\\AustriaTime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
